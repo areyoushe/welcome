@@ -4,3 +4,6 @@ body{
     overflow-x: hidden ;
 }
 
+img{
+    padding-top: 25px;
+}
